@@ -1,0 +1,14 @@
+{
+  "name": "SMI APP",
+  "short_name": "SMI",
+  "description": "Store Management Index · 가맹점 관리지수",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d472e",
+  "theme_color": "#0d472e",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
